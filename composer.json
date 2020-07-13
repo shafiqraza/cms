@@ -1,0 +1,19 @@
+{
+    "name": "92322/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+
+    "autoload":{
+      "classmap":[
+        "classes"
+      ]
+    },
+
+    "authors": [
+        {
+            "name": "shafiqraza",
+            "email": "shafiq@gmail.com"
+        }
+    ]
+}
